@@ -1,0 +1,91 @@
+.navbar{
+    display: flex;
+    justify-content:space-around ;
+    
+    
+    
+}
+.body{
+    background-color: darkslategray;
+}
+.white{
+    background-color: #daa520;
+    display: flex;
+    justify-content: space-around;
+
+}
+.price{
+    display: flex;
+    justify-content: space-around;
+}
+  th,td{
+    padding: 15px;
+  }  
+  table{
+border-spacing: 3opx;
+  }
+  table{
+    border-spacing: 28px;
+  }
+.blue{
+    border: solid;
+    width: 30%;
+    margin: left 30px;
+    border-radius: 10%;
+}
+.black{
+    border: solid;
+    width: 30%;
+    margin-left: 40%;
+    border-radius: 10%;
+    
+}
+.yellow{
+    border: solid;
+    width: 30%;
+    margin-left:1%;
+    border-radius: 20%;
+}
+.orange{
+    position: relative;
+    left: 500px;
+    bottom:400px;
+    
+
+    
+    
+}
+.man{
+
+}
+.sub{
+    color: deepskyblue;
+    border: solid;
+    width: 400%;
+    margin-left: 300%;
+    border-radius: 100%;
+    
+    
+}
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+    
+
+  
+
+  
